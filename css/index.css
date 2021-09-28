@@ -25,6 +25,9 @@ body{
 
 
 /* 태극 슬라이드 */
+.taeguk{
+  cursor: pointer;
+}
 .taeguk .pic{
   background-image: url(../image/me3.jpg);
   background-position: 55%;
@@ -74,6 +77,7 @@ body{
 .bgBox .gungon {
   width: 200px;
   height: 280px;
+  cursor: pointer;
 }
 .bgBox .gungon p {
   display: none;
