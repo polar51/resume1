@@ -74,6 +74,9 @@ body{
 
 
 /* 건곤감리 */
+.bgBox article{
+  cursor: pointer;
+}
 .bgBox .gungon {
   width: 200px;
   height: 280px;
